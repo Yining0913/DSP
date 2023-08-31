@@ -1,7 +1,0 @@
-,Age,Workclass,Education,Marital Status,Occupation,Relationship,Race,Sex,Capital Gain,Capital Loss,Hours per week,Country,Label
-0,43,Private,High School grad,Married,Sales,Husband,White,Male,3103,0,40,United-States,>50K
-0,43,Private,High School grad,Married,Sales,Husband,White,Male,0,0,38,United-States,<=50K
-1,44,Private,High School grad,Married,Blue-Collar,Husband,White,Male,0,0,38,United-States,<=50K
-2,44,Private,High School grad,Married,Sales,Husband,White,Male,0,0,38,United-States,<=50K
-3,44,Private,High School grad,Married,Sales,Husband,White,Male,0,0,39,United-States,<=50K
-4,45,Private,High School grad,Married,Blue-Collar,Husband,White,Male,0,0,38,United-States,<=50K
